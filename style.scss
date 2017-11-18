@@ -155,8 +155,11 @@ img {
 }
 
 .masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+ background: url("/assets/img/14sound.jpg");
+ background-size: cover;
+ margin: 0 auto;
+ padding: 0 auto;
+color:white;
 
   @include mobile {
     text-align: center;
