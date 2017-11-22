@@ -21,7 +21,7 @@ background-image: https://zaktree.github.io/assets/img/14sound.jpg
 title: Everything is True
 email: zaktree@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A website for blogging and serving
+  do it
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zaktree 
