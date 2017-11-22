@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://zaktree.github.io/_assets/img/sound.jpg
+avatar: https://zaktree.github.io/sound.jpg
 header-image: https://zaktree.github.io/assets/img/14sound.jpg
 background-image: https://zaktree.github.io/assets/img/14sound.jpg
 title: Everything is True
