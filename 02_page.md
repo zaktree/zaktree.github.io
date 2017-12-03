@@ -1,6 +1,6 @@
 ---
 layout: default2
-header1: .../files/eye2.jpg
+header1: /files/eye2.jpg
 title: Page
 permalink: /page/
 ---
