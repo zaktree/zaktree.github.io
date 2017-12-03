@@ -1,6 +1,6 @@
 ---
 layout: default2
-header1: sound.jpg
+header1: eye2.jpg
 title: Page
 permalink: /page/
 ---
