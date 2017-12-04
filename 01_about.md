@@ -1,5 +1,6 @@
 ---
-layout: default4
+layout: page
+header-img: 'https://zaktree.github.io/files/piero.jpg'
 title: About
 permalink: /about/
 ---
