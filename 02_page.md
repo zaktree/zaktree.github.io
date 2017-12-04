@@ -1,5 +1,6 @@
 ---
-layout: default2
+layout: page
+header-img: eye2.jpg
 title: Page
 permalink: /page/
 ---
