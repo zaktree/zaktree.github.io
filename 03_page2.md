@@ -1,5 +1,6 @@
 ---
-layout: default3
+layout: page
+header-img: 'https://zaktree.github.io/files/coldstream.jpg'
 title: Page2
 ---
 
