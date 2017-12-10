@@ -7,5 +7,5 @@ permalink: /page/
 
 
 this is stuff on a page
-
+<!-- more -->
 ## *STUFF*
